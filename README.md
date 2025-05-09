@@ -56,9 +56,9 @@ Here are the available API routes and what each of them does:
 ---
 
 ### Some postman images
-- Sign Up
+Sign Up
   ![WhatsApp Image 2025-05-09 at 8 38 13 PM](https://github.com/user-attachments/assets/e633ba8f-8148-4746-80ca-db1898a0aa65)
-- Verify Email
+Verify Email
   ![WhatsApp Image 2025-05-09 at 8 39 04 PM](https://github.com/user-attachments/assets/aace0675-028b-4125-9bdb-1678012daba2)
-- Login
+Login
   ![WhatsApp Image 2025-05-09 at 8 47 33 PM](https://github.com/user-attachments/assets/a4c28507-65b7-4c86-83d2-8262394b5af2)
